@@ -1,0 +1,22 @@
+header{
+padding: 80px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+}
+
+/* Style the body */
+body {
+  font-family: Monospace,	Courier New;
+  margin: 0;
+  color:  rgb(152, 161, 13);
+}
+div {text-align: center;}
+
+p{
+    text-align: center;
+    margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
