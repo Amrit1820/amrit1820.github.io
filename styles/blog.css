@@ -20,3 +20,20 @@ p{
   margin-right: 150px;
   margin-left: 80px;
 }
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(74, 231, 192);
+  color: white;
+  text-align: center;
+}
