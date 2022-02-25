@@ -37,3 +37,31 @@ footer {
   color: white;
   text-align: center;
 }
+p.growth{
+text-align: center;
+color: azure;
+font-family: Monospace,	Courier New;
+  margin: 0;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 150px;
+  margin-left: 80px;
+  font-size: larger;
+}
+h1.growth{
+  text-align: center;
+color: azure;
+font-family: Monospace,	Courier New;
+}
+.new{
+  text-align: center;
+  color: rgba(106, 106, 223, 0.87);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20mm;
+}
+.new2{
+  text-align: center;
+  color: rgba(106, 106, 223, 0.87);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: larger;
+}
